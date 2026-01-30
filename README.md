@@ -24,3 +24,7 @@ I designed a Printed Circuit Board for a 12 v DC to 5v DC Regulated Power Supply
 
 # Happy Engineering!!!!
 
+# Video Of the PCB
+![Image](https://github.com/user-attachments/assets/6a172318-9b5f-4e18-a112-4293202b454d)
+
+
